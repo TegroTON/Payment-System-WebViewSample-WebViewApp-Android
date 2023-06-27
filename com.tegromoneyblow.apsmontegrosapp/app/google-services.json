@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389680265961",
+    "project_id": "tegro-money",
+    "storage_bucket": "tegro-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389680265961:android:784be5fec2a5f813e7ce78",
+        "android_client_info": {
+          "package_name": "com.tegromoneyblow.apsmontegrosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389680265961-8mmc536ifr16la4gjj9fo783ub15cjjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuMvwTXJuo-C7JudqFR1A6vJJg0ndwh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389680265961-8mmc536ifr16la4gjj9fo783ub15cjjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
